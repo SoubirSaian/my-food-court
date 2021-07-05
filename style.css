@@ -1,5 +1,6 @@
+       /*------top banner-----*/
 body{
-    
+    margin: 0px;
     font-family: 'Poppins', sans-serif;
 }
 h1{
@@ -32,4 +33,24 @@ h1{
     font-weight: 700;
 }
 
-       /* -------top banner------*/
+       /* -------mid banner------*/
+
+#mid-banner-img{
+    width: 70%;
+    height: 80%;
+    margin-left: 10%;
+}
+.mid-banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+#img-button{
+    margin-top: 50px;
+    margin: 40px;
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 15px 35px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 700;
+}
