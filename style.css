@@ -93,6 +93,7 @@ h2{
 .social-media{
     display: flex;
     margin-top: 7%;
+    margin-bottom: 7%;
     margin-left: 2%;
     width: 95%;
     box-shadow: 5px 5px 20px grey;
@@ -103,3 +104,14 @@ h2{
     padding: 3% 10%;
 }
  
+     /*    footer    */
+
+footer{
+    background-color: black;
+    color: white;
+    height: 200px;
+}
+.footer{
+    text-align: center;
+    
+}
