@@ -9,10 +9,7 @@ h1{
     font-size: 50px;
     margin: 0px;
 }
-.sub{
-    margin-top: 0px;
-    margin-right: 100px;
-}
+ 
 h2{
     font-size: 40px;
 }
@@ -33,9 +30,9 @@ h2{
 .half-width img{
     width: 90%;
 }
-.half-width a{
-    margin-top: 30px;
-}
+/*.half-width a{
+    margin-top: px;
+}*/
 .link-button{
     
     text-decoration: none;
@@ -56,15 +53,6 @@ h2{
 .mid-banner{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
-}
-#img-button{
-    margin-top: 60px;
-    text-decoration: none;
-    background-image: linear-gradient(orange,red);
-    padding: 15px 35px;
-    border-radius: 30px;
-    color: white;
-    font-weight: 700;
 }
 
 /*        on-third-width       */
