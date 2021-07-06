@@ -89,3 +89,17 @@ h2{
     height: 50%;
     
 }
+
+.social-media{
+    display: flex;
+    margin-top: 7%;
+    margin-left: 2%;
+    width: 95%;
+    box-shadow: 5px 5px 20px grey;
+    border-radius: 20px;
+    
+}
+.social-media div{
+    padding: 3% 10%;
+}
+ 
