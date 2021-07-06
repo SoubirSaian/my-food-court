@@ -4,9 +4,14 @@ body{
     margin: 0px;
     font-family: 'Poppins', sans-serif;
 }
+ 
 h1{
     font-size: 50px;
     margin: 0px;
+}
+.sub{
+    margin-top: 0px;
+    margin-right: 100px;
 }
 h2{
     font-size: 40px;
